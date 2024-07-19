@@ -29,6 +29,13 @@ body {
   top: 10px;
 }
 
+.logo2 {
+  max-width: 120px;
+  position: absolute;
+  top: 30px;
+  right: 40px;
+}
+
 .accordion-item {
 	border: none;
 }
