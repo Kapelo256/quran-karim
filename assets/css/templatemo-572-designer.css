@@ -338,7 +338,7 @@ button:focus:not(:focus-visible) {
 
 .main-banner {
   background-color: #333;
-  background-image: url(../images/Capture.PNG);
+  background-image: url(https://www.islamic-relief.org.uk/wp-content/uploads/2022/11/scholar-hero.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -353,7 +353,7 @@ button:focus:not(:focus-visible) {
 }
 
 .main-banner h6 {
-  font-size: 20px;
+  font-size: 70px;
   color: #ffffff;
   text-transform: uppercase;
   font-weight: 700;
@@ -362,7 +362,7 @@ button:focus:not(:focus-visible) {
 
 .main-banner h2 {
   color: #ffffff;
-  font-size: 50px;
+  font-size: 70px;
   font-weight: 700;
   text-transform: uppercase;
   margin-top: 15px;
@@ -380,7 +380,7 @@ button:focus:not(:focus-visible) {
 
 .search-form #search-form {
   padding: 30px;
-  background-color: #ffffff;
+  background-color: #4e7a66;
   -webkit-box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.15);
           box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.15);
   border-radius: 7.5px;
@@ -394,7 +394,8 @@ button:focus:not(:focus-visible) {
 }
 
 .search-form #search-form label {
-  font-size: 18px;
+  font-size: 30px;
+  color: #ff565b;
   font-weight: 700;
   margin-bottom: 10px;
 }
